@@ -1,0 +1,13 @@
+Nama : ihratun
+Nim : 1901013074
+
+1. Maksud dari angka versi python tersebut adalah Versi python diberi nomor A.B.C atau A.B. A adalah nomor versi utama -- hanya bertambah untuk perubahan besar dalam bahasa. B adalah nomor versi minor, ditambahkan untuk mengurangi perubahan yang menggoncang dunia. C adalah level mikro -- ia bertambah untuk setiap rilis bugfix.
+2.  Command Palette
+Command Palette menyediakan banyak akses perintah. Kita bisa memberikan perintah editor, membuka file, mencari file dan sebagainya dengan cepat dan mudah
+
+Untuk membuka Command Palette tekan kombinasi Ctrl+Shift+P
+3. Extensions
+Ekstensi adalah fungsi tambahan dalam yang berfungsi untuk memperluas kemampuan dari editor yang dapat membantu developer dalam melakukan programming.
+Fitur search Visual Studio Code juga luar biasa cepatnya. Kemudahan yang diberikan selain kecepatan query pencarian data juga dia akan mencari sampai di level kontennya
+
+Misal saya membuat 2 file dengan nama hello.py dan hello.java dan ingin melakukan pencarian kode println di java
